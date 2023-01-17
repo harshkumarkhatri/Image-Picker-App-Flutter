@@ -1,6 +1,6 @@
 # image_picker_camera_app
 
-This is an image picker app which i have tried to implement in flutter<br>
+This is an image picker app which i have tried to implement in flutter.<br>
 **About the app**:-<br>
 When you open this app you will be seeing two floating action button. One for choosing the image from the galarry and another one from taking an image from  your camera and then displaying it.On the top you have a container which initially says "Interact by clicking the buttons below".
 <br>
